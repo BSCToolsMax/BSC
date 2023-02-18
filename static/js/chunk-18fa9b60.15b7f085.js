@@ -2,6 +2,6 @@
  *  build: vue-admin-beautiful 
  *  vue-admin-beautiful author: chuzhixin 1204505056@qq.com 
  *  vue-admin-beautiful QQ Group(QQ群): 972435319、1139183756 
- *  time: 2023-2-18 14:03:29
+ *  time: 2023-2-18 21:48:48
  */
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-18fa9b60"],{"37f9":function(e,n,t){"use strict";t.r(n);var o=t("f2bf"),r={class:"index-container"};function c(e,n,t,c,a,p){var i=Object(o["resolveComponent"])("version-information");return Object(o["openBlock"])(),Object(o["createElementBlock"])("div",r,[Object(o["createVNode"])(i)])}var a=t("a0b1"),p={name:"Index",components:{VersionInformation:a["default"]}},i=t("d959"),s=t.n(i);const b=s()(p,[["render",c]]);n["default"]=b},a0b1:function(e,n,t){"use strict";t.r(n);var o=t("f2bf"),r={style:{}},c=Object(o["createStaticVNode"])('<p>自动验证代码并发布到 BSC 浏览器</p><br><p> 创建完成后，请在BSC浏览器中查看您的地址并查看您的token(*) </p><br><p>Standard Token Fees: 0.1 BNB</p><p>Liquidity Generator Token Fees: 0.1 BNB</p><p>Baby Token Fees: 0.1 BNB PS : 持有代币获得分红。.</p><p>Buyback Baby Token Fees: 0.1 BNB PS: 持有代币获得分红。.</p><p>Number Limit Token Fees: 0.1 BNB PS :限购模式</p><p style="color:red;"> 对于销毁、变基或其他特殊转移的代币，请确保您有办法将多个地址列入白名单或关闭特殊转移事件（通过将费用设置为 0） </p><p> 免责声明：此过程完全去中心化，我们不对信息输入不正确负责，也不对与您使用我们平台相关的任何事情负责。请确保您尽可能准确地输入所有详细信息，并确保您遵守当地法律法规。 </p>',11),a=[c];function p(e,n){return Object(o["openBlock"])(),Object(o["createElementBlock"])("div",r,a)}var i=t("d959"),s=t.n(i);const b={},d=s()(b,[["render",p]]);n["default"]=d}}]);
